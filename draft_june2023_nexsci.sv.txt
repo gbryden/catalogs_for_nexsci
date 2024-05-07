@@ -1,0 +1,515 @@
+137.55 Cnc.data.collect.frames.*
+155.55 Cnc.system.finalize.parameters.*
+164.55 Cnc.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.55 Cnc.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.55 Cnc.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.55 Cnc.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.55 Cnc.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.55 Cnc.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.GJ 1132.data.collect.frames.*
+155.GJ 1132.system.finalize.parameters.*
+164.GJ 1132.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.GJ 1132.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.GJ 1132.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.GJ 1132.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.GJ 1132.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.GJ 1132.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.GJ 1214.data.collect.frames.*
+155.GJ 1214.system.finalize.parameters.*
+164.GJ 1214.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.GJ 1214.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.GJ 1214.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.GJ 1214.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.GJ 1214.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.GJ 1214.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.GJ 3053.data.collect.frames.*
+155.GJ 3053.system.finalize.parameters.*
+164.GJ 3053.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.GJ 3053.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.GJ 3053.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.GJ 3053.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.GJ 3053.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.GJ 3053.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.GJ 3470.data.collect.frames.*
+155.GJ 3470.system.finalize.parameters.*
+164.GJ 3470.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.GJ 3470.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.GJ 3470.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.GJ 3470.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.GJ 3470.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.GJ 3470.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.GJ 436.data.collect.frames.*
+155.GJ 436.system.finalize.parameters.*
+164.GJ 436.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.GJ 436.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.GJ 436.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.GJ 436.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.GJ 436.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.GJ 436.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.GJ 9827.data.collect.frames.*
+155.GJ 9827.system.finalize.parameters.*
+164.GJ 9827.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.GJ 9827.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.GJ 9827.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.GJ 9827.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.GJ 9827.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.GJ 9827.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HAT-P-1.data.collect.frames.*
+155.HAT-P-1.system.finalize.parameters.*
+164.HAT-P-1.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HAT-P-1.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HAT-P-1.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HAT-P-1.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HAT-P-1.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HAT-P-1.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HAT-P-11.data.collect.frames.*
+155.HAT-P-11.system.finalize.parameters.*
+164.HAT-P-11.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HAT-P-11.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HAT-P-11.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HAT-P-11.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HAT-P-11.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HAT-P-11.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HAT-P-12.data.collect.frames.*
+155.HAT-P-12.system.finalize.parameters.*
+164.HAT-P-12.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HAT-P-12.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HAT-P-12.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HAT-P-12.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HAT-P-12.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HAT-P-12.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HAT-P-17.data.collect.frames.*
+155.HAT-P-17.system.finalize.parameters.*
+164.HAT-P-17.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HAT-P-17.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HAT-P-17.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HAT-P-17.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HAT-P-17.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HAT-P-17.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HAT-P-18.data.collect.frames.*
+155.HAT-P-18.system.finalize.parameters.*
+164.HAT-P-18.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HAT-P-18.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HAT-P-18.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HAT-P-18.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HAT-P-18.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HAT-P-18.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HAT-P-26.data.collect.frames.*
+155.HAT-P-26.system.finalize.parameters.*
+164.HAT-P-26.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HAT-P-26.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HAT-P-26.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HAT-P-26.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HAT-P-26.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HAT-P-26.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HAT-P-3.data.collect.frames.*
+155.HAT-P-3.system.finalize.parameters.*
+164.HAT-P-3.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HAT-P-3.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HAT-P-3.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HAT-P-3.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HAT-P-3.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HAT-P-3.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HAT-P-32.data.collect.frames.*
+155.HAT-P-32.system.finalize.parameters.*
+164.HAT-P-32.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HAT-P-32.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HAT-P-32.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HAT-P-32.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HAT-P-32.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HAT-P-32.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HAT-P-38.data.collect.frames.*
+155.HAT-P-38.system.finalize.parameters.*
+164.HAT-P-38.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HAT-P-38.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HAT-P-38.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HAT-P-38.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HAT-P-38.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HAT-P-38.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HAT-P-41.data.collect.frames.*
+155.HAT-P-41.system.finalize.parameters.*
+164.HAT-P-41.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HAT-P-41.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HAT-P-41.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HAT-P-41.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HAT-P-41.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HAT-P-41.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HATS-7.data.collect.frames.*
+155.HATS-7.system.finalize.parameters.*
+164.HATS-7.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HATS-7.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HATS-7.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HATS-7.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HATS-7.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HATS-7.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+# skipping HD 106315 - spectrum has 1 point in this Run ID
+#
+137.HD 149026.data.collect.frames.*
+155.HD 149026.system.finalize.parameters.*
+164.HD 149026.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HD 149026.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HD 149026.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HD 149026.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HD 149026.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HD 149026.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HD 189733.data.collect.frames.*
+155.HD 189733.system.finalize.parameters.*
+164.HD 189733.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HD 189733.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HD 189733.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HD 189733.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HD 189733.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HD 189733.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HD 209458.data.collect.frames.*
+155.HD 209458.system.finalize.parameters.*
+164.HD 209458.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HD 209458.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HD 209458.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HD 209458.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HD 209458.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HD 209458.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.HD 97658.data.collect.frames.*
+155.HD 97658.system.finalize.parameters.*
+164.HD 97658.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.HD 97658.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.HD 97658.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.HD 97658.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.HD 97658.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.HD 97658.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.K2-18.data.collect.frames.*
+155.K2-18.system.finalize.parameters.*
+164.K2-18.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.K2-18.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.K2-18.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.K2-18.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.K2-18.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.K2-18.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.K2-24.data.collect.frames.*
+155.K2-24.system.finalize.parameters.*
+164.K2-24.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.K2-24.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.K2-24.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.K2-24.transit.whitelight.HST-WFC3-IR-G141-SCAN.* 
+187.K2-24.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.K2-24.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.K2-3.data.collect.frames.*
+155.K2-3.system.finalize.parameters.*
+164.K2-3.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.K2-3.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.K2-3.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.K2-3.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.K2-3.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.K2-3.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.K2-33.data.collect.frames.*
+155.K2-33.system.finalize.parameters.*
+164.K2-33.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.K2-33.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.K2-33.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.K2-33.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.K2-33.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.K2-33.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+# 
+137.K2-93.data.collect.frames.*
+155.K2-93.system.finalize.parameters.*
+164.K2-93.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.K2-93.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.K2-93.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.K2-93.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.K2-93.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.K2-93.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.K2-96.data.collect.frames.*
+155.K2-96.system.finalize.parameters.*
+164.K2-96.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.K2-96.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.K2-96.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.K2-96.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.K2-96.transit.spectrum.HST-WFC3-IR-G141-SCAN.* 
+591.K2-96.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.KELT-1.data.collect.frames.*
+155.KELT-1.system.finalize.parameters.*
+164.KELT-1.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.KELT-1.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.KELT-1.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.KELT-1.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.KELT-1.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.KELT-1.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.KELT-11.data.collect.frames.*
+155.KELT-11.system.finalize.parameters.*
+164.KELT-11.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.KELT-11.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.KELT-11.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.KELT-11.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.KELT-11.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.KELT-11.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.KELT-7.data.collect.frames.*   
+155.KELT-7.system.finalize.parameters.*   
+164.KELT-7.data.timing.HST-WFC3-IR-G141-SCAN.*   
+165.KELT-7.data.calibration.HST-WFC3-IR-G141-SCAN.*    
+185.KELT-7.transit.normalization.HST-WFC3-IR-G141-SCAN.*   
+186.KELT-7.transit.whitelight.HST-WFC3-IR-G141-SCAN.*   
+187.KELT-7.transit.spectrum.HST-WFC3-IR-G141-SCAN.*   
+591.KELT-7.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.Kepler-138.data.collect.frames.*
+155.Kepler-138.system.finalize.parameters.*
+164.Kepler-138.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.Kepler-138.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.Kepler-138.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.Kepler-138.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.Kepler-138.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.Kepler-138.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.Kepler-16.data.collect.frames.*
+155.Kepler-16.system.finalize.parameters.*
+164.Kepler-16.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.Kepler-16.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.Kepler-16.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.Kepler-16.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.Kepler-16.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.Kepler-16.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.TRAPPIST-1.data.collect.frames.*
+155.TRAPPIST-1.system.finalize.parameters.*
+164.TRAPPIST-1.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.TRAPPIST-1.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.TRAPPIST-1.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.TRAPPIST-1.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.TRAPPIST-1.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.TRAPPIST-1.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-101.data.collect.frames.*
+155.WASP-101.system.finalize.parameters.*
+164.WASP-101.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-101.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-101.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-101.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-101.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-101.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-103.data.collect.frames.*
+155.WASP-103.system.finalize.parameters.*
+164.WASP-103.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-103.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-103.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-103.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-103.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-103.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-107.data.collect.frames.*
+155.WASP-107.system.finalize.parameters.*
+164.WASP-107.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-107.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-107.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-107.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-107.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-107.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-12.data.collect.frames.*
+155.WASP-12.system.finalize.parameters.*
+164.WASP-12.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-12.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-12.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-12.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-12.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-12.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-121.data.collect.frames.*
+155.WASP-121.system.finalize.parameters.*
+164.WASP-121.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-121.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-121.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-121.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-121.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-121.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-17.data.collect.frames.*
+155.WASP-17.system.finalize.parameters.*
+164.WASP-17.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-17.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-17.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-17.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-17.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-17.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-18.data.collect.frames.*
+155.WASP-18.system.finalize.parameters.*
+164.WASP-18.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-18.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-18.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-18.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-18.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-18.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-19.data.collect.frames.*
+155.WASP-19.system.finalize.parameters.*
+164.WASP-19.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-19.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-19.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-19.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-19.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-19.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-29.data.collect.frames.*
+155.WASP-29.system.finalize.parameters.*
+164.WASP-29.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-29.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-29.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-29.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-29.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-29.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-31.data.collect.frames.*
+155.WASP-31.system.finalize.parameters.*
+164.WASP-31.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-31.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-31.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-31.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-31.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-31.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-39.data.collect.frames.*
+155.WASP-39.system.finalize.parameters.*
+164.WASP-39.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-39.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-39.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-39.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-39.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-39.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-43.data.collect.frames.*
+155.WASP-43.system.finalize.parameters.*
+164.WASP-43.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-43.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-43.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-43.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-43.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-43.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-52.data.collect.frames.*
+155.WASP-52..system.finalize.parameters.*
+164.WASP-52..data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-52..data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-52..transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-52..transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-52..transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-52.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-62..data.collect.frames.*
+155.WASP-62.system.finalize.parameters.*
+164.WASP-62.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-62.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-62.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-62.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-62.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-62.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-63.data.collect.frames.*
+155.WASP-63.system.finalize.parameters.*
+164.WASP-63.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-63.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-63.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-63.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-63.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-63.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-67.data.collect.frames.*
+155.WASP-67.system.finalize.parameters.*
+164.WASP-67.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-67.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-67.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-67.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-67.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-67.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-69.data.collect.frames.*
+155.WASP-69.system.finalize.parameters.*
+164.WASP-69.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-69.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-69.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-69.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-69.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-69.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-74.data.collect.frames.*
+155.WASP-74.system.finalize.parameters.*
+164.WASP-74.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-74.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-74.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-74.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-74.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-74.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-76.data.collect.frames.*
+155.WASP-76.system.finalize.parameters.*
+164.WASP-76.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-76.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-76.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-76.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-76.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-76.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-79.data.collect.frames.*
+155.WASP-79.system.finalize.parameters.*
+164.WASP-79.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-79.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-79.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-79.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-79.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-79.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.WASP-80.data.collect.frames.*
+155.WASP-80.system.finalize.parameters.*
+164.WASP-80.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.WASP-80.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.WASP-80.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.WASP-80.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.WASP-80.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.WASP-80.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.XO-1.data.collect.frames.*
+155.XO-1.system.finalize.parameters.*
+164.XO-1.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.XO-1.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.XO-1.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.XO-1.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.XO-1.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.XO-1.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
+137.XO-2.data.collect.frames.*
+155.XO-2.system.finalize.parameters.*
+164.XO-2.data.timing.HST-WFC3-IR-G141-SCAN.*
+165.XO-2.data.calibration.HST-WFC3-IR-G141-SCAN.*
+185.XO-2.transit.normalization.HST-WFC3-IR-G141-SCAN.*
+186.XO-2.transit.whitelight.HST-WFC3-IR-G141-SCAN.*
+187.XO-2.transit.spectrum.HST-WFC3-IR-G141-SCAN.*
+591.XO-2.cerberus.release.HST-WFC3-IR-G141-SCAN.*
+#
