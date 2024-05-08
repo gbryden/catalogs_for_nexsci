@@ -1,0 +1,205 @@
+748.CoRoT-2.data.collect.frames.*
+698.CoRoT-2.system.finalize.parameters.*
+764.CoRoT-2.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.CoRoT-2.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.GJ 1132.data.collect.frames.*
+698.GJ 1132.system.finalize.parameters.*
+764.GJ 1132.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.GJ 1132.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.GJ 1214.data.collect.frames.*
+698.GJ 1214.system.finalize.parameters.*
+764.GJ 1214.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.GJ 1214.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.GJ 1214.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.GJ 1214.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.HAT-P-2.data.collect.frames.*
+748.HAT-P-2.system.finalize.parameters.*
+764.HAT-P-2.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.HAT-P-2.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.HAT-P-2.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.HAT-P-2.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.HAT-P-23.data.collect.frames.*
+698.HAT-P-23.system.finalize.parameters.*
+764.HAT-P-23.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.HAT-P-23.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.HAT-P-23.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.HAT-P-23.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.HAT-P-7.data.collect.frames.*
+698.HAT-P-7.system.finalize.parameters.*
+764.HAT-P-7.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.HAT-P-7.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.HAT-P-7.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.HAT-P-7.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.HD 149026.data.collect.frames.*
+698.HD 149026.system.finalize.parameters.*
+764.HD 149026.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.HD 149026.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.HD 149026.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.HD 149026.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.HD 213885.data.collect.frames.*
+698.HD 213885.system.finalize.parameters.*
+764.HD 213885.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.HD 213885.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.K2-141.data.collect.frames.*
+748.K2-141.system.finalize.parameters.*
+764.K2-141.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.K2-141.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.KELT-1.data.collect.frames.*
+754.KELT-1.system.finalize.parameters.*
+764.KELT-1.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.KELT-1.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.KELT-1.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.KELT-1.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.KELT-14.data.collect.frames.*
+698.KELT-14.system.finalize.parameters.*
+764.KELT-14.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.KELT-14.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.KELT-14.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.KELT-14.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.KELT-16.data.collect.frames.*
+698.KELT-16.system.finalize.parameters.*
+764.KELT-16.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.KELT-16.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.KELT-20.data.collect.frames.*
+698.KELT-20.system.finalize.parameters.*
+764.KELT-20.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.KELT-20.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.KELT-7.data.collect.frames.*
+698.KELT-7.system.finalize.parameters.*
+764.KELT-7.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.KELT-7.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.KELT-9.data.collect.frames.*
+748.KELT-9.system.finalize.parameters.*
+764.KELT-9.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.KELT-9.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.KELT-9.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.KELT-9.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.LHS 3844.data.collect.frames.*
+698.LHS 3844.system.finalize.parameters.*
+764.LHS 3844.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.LHS 3844.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.MASCARA-1.data.collect.frames.*
+698.MASCARA-1.system.finalize.parameters.*
+764.MASCARA-1.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.MASCARA-1.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.Qatar-1.data.collect.frames.*
+698.Qatar-1.system.finalize.parameters.*
+764.Qatar-1.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.Qatar-1.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.Qatar-1.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.Qatar-1.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.Qatar-2.data.collect.frames.*
+698.Qatar-2.system.finalize.parameters.*
+764.Qatar-2.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.Qatar-2.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.Qatar-2.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.Qatar-2.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.TrES-3.data.collect.frames.*
+698.TrES-3.system.finalize.parameters.*
+764.TrES-3.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.TrES-3.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-12.data.collect.frames.*
+698.WASP-12.system.finalize.parameters.*
+764.WASP-12.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.WASP-12.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-12.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.WASP-12.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-121.data.collect.frames.*
+698.WASP-121.system.finalize.parameters.*
+764.WASP-121.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.WASP-121.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-121.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.WASP-121.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-14.data.collect.frames.*
+698.WASP-14.system.finalize.parameters.*
+764.WASP-14.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.WASP-14.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-14.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.WASP-14.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-140.data.collect.frames.*
+698.WASP-140.system.finalize.parameters.*
+764.WASP-140.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-140.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-18.data.collect.frames.*
+698.WASP-18.system.finalize.parameters.*
+764.WASP-18.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.WASP-18.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-18.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.WASP-18.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-19.data.collect.frames.*
+698.WASP-19.system.finalize.parameters.*
+748.WASP-19.data.timing.Spitzer-IRAC-IR-36-SUB.*
+748.WASP-19.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-19.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.WASP-19.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-33.data.collect.frames.*
+698.WASP-33.system.finalize.parameters.*
+764.WASP-33.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.WASP-33.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-33.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.WASP-33.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-43.data.collect.frames.*
+698.WASP-43.system.finalize.parameters.*
+764.WASP-43.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.WASP-43.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-43.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.WASP-43.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-52.data.collect.frames.*
+698.WASP-52.system.finalize.parameters.*
+764.WASP-52.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.WASP-52.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-52.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.WASP-52.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-74.data.collect.frames.*
+699.WASP-74.system.finalize.parameters.*
+764.WASP-74.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-74.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-76.data.collect.frames.*
+699.WASP-76.system.finalize.parameters.*
+764.WASP-76.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.WASP-76.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-76.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.WASP-76.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-77.data.collect.frames.*
+699.WASP-77.system.finalize.parameters.*
+764.WASP-77.data.timing.Spitzer-IRAC-IR-36-SUB.*
+764.WASP-77.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-77.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
+768.WASP-77.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
+764.WASP-95.data.collect.frames.*
+699.WASP-95.system.finalize.parameters.*
+764.WASP-95.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-95.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
