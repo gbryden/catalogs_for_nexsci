@@ -4,7 +4,7 @@ The RUNID must be included on each line.
 
 Current contents:
 1. 2021_wfc3_catalog_nexsci.sv.txt : HST/WFC3 spectra for 61 planets (from Roudier+ 2021)
-2. 2024_spitzer_phasecurve_catalog_nexsci.sv.txt : Spitzer phase curves for 33 planets (from Swain+ 2024, Table 1)
+2. 2024_spitzer_phasecurve_catalog_nexsci.sv.txt : Spitzer phase curves for 34 planets (from Swain+ 2024, Table 1)
 
 ## Catalogs to mausoleum
 1. All files ending in nexsci.sv.txt will be concatenated into one file when building the mausoleum
