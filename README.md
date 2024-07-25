@@ -9,7 +9,12 @@ Current contents:
 ## Catalogs to mausoleum
 1. All files ending in nexsci.sv.txt will be concatenated into one file when building the mausoleum
 2. Release/Tag the place you want to turn into a mausoleum
-3. Go to any of the mentor machines (NOT mentor3)
+   1. click on 'Releases' to the right here
+   2. click on 'draft a new release'
+   3. 'choose a tag' pulldown
+   4. click on 'create new tag'
+   5. click on 'generate release notes'
+4. Go to any of the mentor machines (NOT mentor3)
    1. cd to your esp repository
    2. run script: `.ci/inter.sh /proj/sdp/data/niessner/mausoleam/2.X.X`
    3. distribute `proj/sdp/data/niessner/mausoleam/2.X.X/tag.tgz` a gzipped tarfile
