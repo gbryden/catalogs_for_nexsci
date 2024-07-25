@@ -165,6 +165,11 @@
 768.WASP-33.phasecurve.whitelight.Spitzer-IRAC-IR-36-SUB.*
 768.WASP-33.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
 #
+764.WASP-34.data.collect.frames.*
+698.WASP-34.system.finalize.parameters.*
+764.WASP-34.data.timing.Spitzer-IRAC-IR-45-SUB.*
+768.WASP-34.phasecurve.whitelight.Spitzer-IRAC-IR-45-SUB.*
+#
 764.WASP-43.data.collect.frames.*
 698.WASP-43.system.finalize.parameters.*
 764.WASP-43.data.timing.Spitzer-IRAC-IR-36-SUB.*
